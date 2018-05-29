@@ -1,7 +1,6 @@
 # my-project
 
-> A Vue.js project
-
+> A Vue.js project about demo
 ## Build Setup
 
 ``` bash
